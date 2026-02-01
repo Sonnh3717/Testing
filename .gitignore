@@ -1,0 +1,18 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+.vscode/
+
+# Build output
+target/
+**/target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env
+.env
